@@ -1,4 +1,4 @@
-# [[EEML2025](https://www.eeml.eu)] Tutorial 4: Flow Matching & drug discovery
+# [[EEML2025](https://www.eeml.eu)] Tutorial 4: Flow Matching & Drug Discovery
 
 **Authors:** Oscar Davis and Katarina Petrović
 
@@ -32,10 +32,16 @@ Single-cell technology has changed the way we study biology. Instead of averagin
 
 ### Notebooks
 
-Tutorial - flow matching: [![Open In 
+Tutorial part 1 - flow matching: [![Open In 
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eemlcommunity/PracticalSessions2025/blob/main/4_flow_matching_drug_discovery/flow_matching.ipynb)
 
-Tutorial - drug discovery: [![Open In 
+Tutorial part 2 - drug discovery: [![Open In 
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eemlcommunity/PracticalSessions2025/blob/main/4_flow_matching_drug_discovery/drug_discovery.ipynb)
+
+Tutorial part 1 with solutions - flow matching: [![Open In 
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eemlcommunity/PracticalSessions2025/blob/main/4_flow_matching_drug_discovery/flow_matching_solutions.ipynb)
+
+Tutorial part 2 with solutions - drug discovery: [![Open In 
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eemlcommunity/PracticalSessions2025/blob/main/4_flow_matching_drug_discovery/drug_discovery_solutions.ipynb)
 
 ---
